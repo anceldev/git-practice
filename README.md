@@ -59,7 +59,7 @@ Ordered list:
 
 Nested list:
 1. First element
-   _ First nested item
+     _ First nested item
      _ Second nested item
 
 Task list:
