@@ -27,6 +27,6 @@ var var2: Double
 '''
 
 Example of color models:
-'#333333' for HEX
-'rgb(9, 105, 218)' for RGB
-'hsl(212,92%,45%) for HSL
+`#333333` for HEX
+`rgb(9, 105, 218)` for RGB
+`hsl(212,92%,45%)` for HSL
