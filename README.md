@@ -24,7 +24,7 @@ This is a 'quoting code' example
 ```swift
 let var1: Int
 var var2: Double
-``
+```
 
 Example of color models:
 `#333333` for HEX
