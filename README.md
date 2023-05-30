@@ -67,3 +67,20 @@ Task list:
 - [ ] Not checked tax
 - [ ] \(Opptional) For writtinf parenthesis
 - [ ] Add delight to the experience when all tasks are cmplete :tada:
+
+Mentioning @github/support 
+
+Adding an moon emoji :moon:
+
+Footnotes:
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].
+
+[^1]: My reference.
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
+  This is a second line.
+
+Hidding content with comments <!-- This is a comment -->
+
+Ignoring Markdown formatting \*our-new-project\*
